@@ -158,8 +158,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8992 \
-    Snap
+    camera.msm8992
 
 # Gello
 PRODUCT_PACKAGES += \
